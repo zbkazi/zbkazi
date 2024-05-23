@@ -88,3 +88,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
+  # Success Messages
+  success:
+    name: Success the build was successful
+    run: echo "The build was successful!"

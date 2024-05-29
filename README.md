@@ -1,6 +1,5 @@
-<h3 align="center" style="color:#00d4ff; padding: 30px; font-size:20px;">
+😎
 
-</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Zobaidul+Kazi;Full+Stack+Developer+;Crafting+Seamless+Digital+Solutions.;Proficient+in+modern+technologies;Including+JavaScript%2C+TypeScript%2C;+Node.js+and+various+frameworks..)](https://zbkazi.github.io)
 

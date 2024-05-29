@@ -16,6 +16,18 @@ As a Full Stack Developer, I specialize in creating efficient and scalable appli
 
 &emsp;
 
+
+
+---
+
+---
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zbkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zbkazi&layout=compact&langs_count=8&theme=algolia"/>
+
+
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -23,7 +35,7 @@ As a Full Stack Developer, I specialize in creating efficient and scalable appli
 
 
   <a href="https://zbkazi.github.io">
-    <img style="width: 100px; height: 100px;" src="https://skillicons.dev/icons?i=js,ts,python" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python" />
   </a>
 
 
@@ -84,15 +96,6 @@ As a Full Stack Developer, I specialize in creating efficient and scalable appli
     <img src="https://skillicons.dev/icons?i=linux,windows,wordpress" />
   </a>
 
-
-
----
-
----
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zbkazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zbkazi&layout=compact&langs_count=8&theme=algolia"/>
 
 &emsp;
 

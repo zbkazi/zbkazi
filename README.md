@@ -14,6 +14,9 @@ As a Full Stack Developer, I specialize in creating efficient and scalable appli
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zbkazi&color=blue)
 
+
+[![wakatime](https://wakatime.com/badge/user/f22f5f67-c272-4052-bc4f-b9ee26dfabff.svg)](https://wakatime.com/@f22f5f67-c272-4052-bc4f-b9ee26dfabff)
+
 &emsp;
 
 

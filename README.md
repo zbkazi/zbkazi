@@ -8,6 +8,8 @@ As a Full Stack Developer, I specialize in creating efficient and scalable appli
 
 <p>
 
+[About More:](docs/aboutMe.md).
+
 &emsp;
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0)](https://zobkazi.github.io)
